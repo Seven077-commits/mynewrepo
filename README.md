@@ -1,3 +1,3 @@
 # mynewrepo
 This is my new repo <br>
-Author Shailendra
+Author Shailendra PS
